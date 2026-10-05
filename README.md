@@ -67,6 +67,7 @@ Commands used:
 **First code could contain dialogues match the pattern**
 
 Now calculate the percent of lines that each pony has over the entire dataset (including all characters).
-## Task 5: Commit your work
+
+all codes involved are in the scripts and src folder.
 
 
